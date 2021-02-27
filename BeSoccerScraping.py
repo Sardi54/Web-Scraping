@@ -15,7 +15,7 @@ import sqlite3
 jornada = int(input("Jornada: "))
 if jornada <= 0 or jornada >= 39:
         print("Jornada entre la 1 - 38")
-        finall()
+        
 '''
 def error():
     pass
